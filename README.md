@@ -10,9 +10,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Artem
 
-I'm beginner react developer. My position at MoosYo is Junior React Technologist.
-
-Our goal is your convenience and speed of providing services anywhere in the world. Now we are based in Montenegro and are starting our journey into the world of service aggregators.
+I'm frontend developer.
 
 A little about my web development experience:
 
