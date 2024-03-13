@@ -26,14 +26,6 @@ My soft and tools:
 
 <br />
 
-<p align="left">Contacts & Social</p>
-  
-<p align="left">
-  
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
-  
-</p>
-
 <p align="left">
   Well, is where my IT story begins. Are you interested? Write me on socials, let's chat and code!
 </p>
