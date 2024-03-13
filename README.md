@@ -14,7 +14,7 @@ I'm frontend developer.
 
 A little about my web development experience:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,pug,bootstrap,react,redux,nodejs,webpack,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,pug,bootstrap,react,redux,vue,nodejs,webpack,wordpress)](https://skillicons.dev)
 
 Other experience:
 
@@ -30,7 +30,7 @@ My soft and tools:
   
 <p align="left">
   
-  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  ![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)
   
 </p>
 
