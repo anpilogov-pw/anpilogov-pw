@@ -14,15 +14,15 @@ I'm frontend developer.
 
 A little about my web development experience:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,pug,bootstrap,react,redux,vue,nodejs,webpack,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,pug,bootstrap,react,redux,vue,nodejs,webpack,vite,gulp,wordpress)](https://skillicons.dev)
 
 Other experience:
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,md,php,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,md,php,mysql,sqlite,babel)](https://skillicons.dev)
 
 My soft and tools:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,codepen)](https://skillicons.dev)
 
 <br />
 
