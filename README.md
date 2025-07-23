@@ -6,26 +6,45 @@
 
 </p>
 
-<br />
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Artem
+<h1 align="center">Привет, я Артём <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-I'm frontend developer.
-
-A little about my web development experience:
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,pug,bootstrap,react,redux,vue,nodejs,webpack,vite,gulp,wordpress)](https://skillicons.dev)
-
-Other experience:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,md,php,mysql,sqlite,babel)](https://skillicons.dev)
-
-My soft and tools:
-
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,codepen)](https://skillicons.dev)
-
-<br />
-
-<p align="left">
-  Well, is where my IT story begins. Are you interested? Write me on socials, let's chat and code!
+<p align="center">
+  🧑‍💻 Frontend-разработчик с 5-летним опытом<br/>
+  🌍 Работаю с Vue 3, Nuxt 3, TypeScript, SCSS<br/>
+  ⚙️ Настраиваю CI/CD, пишу e2e-тесты<br/>
+  🔍 Участвую в архитектуре проектов и ревью кода
 </p>
+
+---
+
+### 🚀 Технологии и стек
+
+- **Языки:** TypeScript, JavaScript, PHP, Python
+- **Фреймворки:** Vue 3, Nuxt 3, Vite, Pinia, React и д.р.
+- **Стили:** Tailwind CSS, SCSS, BEM
+- **Тестирование:** Selenium + Python, Vitest, Cypress
+- **DevOps:** Docker, GitLab CI/CD, Kubernetes (в процессе)
+- **CMS/CRM:** WordPress
+
+---
+
+### 💼 Текущее место работы
+
+> 🏢 **ПТО "ФАКЕЛ"** — Frontend-разработчик (с октября 2024)  
+> Разрабатываю и поддерживаю web-интерфейсы, участвую в проектировании архитектуры frontend-приложений.
+
+---
+
+### 🌱 Сейчас изучаю
+
+- Kubernetes и CI/CD пайплайны
+- Архитектурные паттерны (DDD, Hexagonal)
+- Расширенная интеграция с Bitrix24 API
+
+---
+
+### 📬 Связь со мной
+
+- Telegram: [@anpilogov_artyom](https://t.me/anpilogov_artyom)
+- Email: a.o.anpilogov@yandex.ru
