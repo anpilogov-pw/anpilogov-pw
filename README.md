@@ -10,7 +10,7 @@
 <h1 align="center">Привет, я Артём <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  🧑‍💻 Frontend-разработчик с 5-летним опытом<br/>
+  🧑‍💻 Fullstack-разработчик с 5-летним опытом<br/>
   🌍 Работаю с Vue 3, Nuxt 3, Nest, TypeScript, Tailwind<br/>
   ⚙️ Настраиваю CI/CD, пакую контейнеры<br/>
   🔍 Участвую в архитектуре проектов и ревью кода
